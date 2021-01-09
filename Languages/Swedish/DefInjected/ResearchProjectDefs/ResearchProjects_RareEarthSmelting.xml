@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RareEarthSmelting.label>Smältverk av sällsynta jordartsmetaller</RareEarthSmelting.label>
+    <ImprovedRareEarthSmelting.label>Förbättrad smältverk av sällsynta jordartsmetaller</ImprovedRareEarthSmelting.label>
+    <RadiationExperiments.label>Strålningsexperiment</RadiationExperiments.label>
+    <EfficientRareEarthSmelting.label>Effektiv smältverk av sällsynta jordartsmetaller</EfficientRareEarthSmelting.label>
+	<ParticleRadiationTheory>Partikelstrålning</ParticleRadiationTheory>
+	<IndustrialRareEarthSmelting>Industriell smältverk av sällsynta jordartsmetaller</IndustrialRareEarthSmelting>
+	
+</LanguageData>

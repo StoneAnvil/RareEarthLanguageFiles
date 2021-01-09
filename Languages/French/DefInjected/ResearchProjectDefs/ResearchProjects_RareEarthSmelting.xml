@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RareEarthSmelting.label>Fusion de minérale</RareEarthSmelting.label>
+    <ImprovedRareEarthSmelting.label>Amélioré fusion de minérale</ImprovedRareEarthSmelting.label>
+    <RadiationExperiments.label>Expériences de rayonnement</RadiationExperiments.label>
+    <EfficientRareEarthSmelting.label>Efficace fusion de minérale</EfficientRareEarthSmelting.label>
+	<ParticleRadiationTheory>Théorie du rayonnement des particules</ParticleRadiationTheory>
+	<IndustrialRareEarthSmelting>Industriel fusion de minérale</IndustrialRareEarthSmelting>
+	
+</LanguageData>
